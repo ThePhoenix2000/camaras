@@ -1,0 +1,99 @@
+
+ {
+    "tvc_model": "DHT0310003",
+    "provider_model": "DH-HAC-HMW3200N-0210B",
+    "tvc_id": 32390,
+    "name": "DAHUA HMW3200(2.1mm) - Cámara Cubo para DVR Móvil de 2 Megapixeles\/ Lente de 2.1 mm\/ 128 Grados de Apertura\/ IR para 20 Mts\/  A prueba de Choques\/ IP67\/ Microfono Integrado\/ #Proyectos",
+    "type": "Proyecto",
+    "brand": "DAHUA",
+    "brand_id": 3581,
+    "category_id": 31,
+    "category": "Especiales",
+    "category_breadcrumb": "Videovigilancia > Cámaras CCTV HD > Especiales",
+       "category_breadcrumb_tree": {
+         "id": 31,
+        "name": "Especiales",
+       "parent": {
+        "id": 28,
+        "name": "Cámaras CCTV HD",
+        "parent":      {
+          "id": 1,
+          "name": "Videovigilancia",
+          "parent": null
+                       }
+                 }
+                                    },
+    "sat_key": "46171621",
+    "list_price": "110.2800",
+    "distributor_price": "69.4800",
+    "total_inventories": "1",
+    "media": {
+      "main_image": "\/media\/211698\/camara-cubo-especial-dvr-movil-2-mp-microfono-lente-2.png",
+      "gallery": [
+        "\/media\/102629\/dim.png",
+        "\/media\/102637\/dim2.png",
+        "\/media\/102641\/plano.png",
+        "\/media\/102645\/techo.png"
+      ],
+      "documents": [
+        "\/media\/102649\/Ficha-T%C3%A9cnica-HMW3200-Ingles.pdf",
+        "\/media\/110217\/Ficha-T%C3%A9cnica-HMW3200-Espa%C3%B1ol.pdf",
+        "\/media\/164874\/Etiqueta_DH-HAC-HMW3200N-0210B-S5.txt",
+        "\/media\/164878\/HDCVI-Camera-Users-Manual_V1.0.0_Ingles.pdf",
+        "\/media\/164882\/HDCVI-Camera-Users-Manual_V1.0.0_Espa%C3%B1ol.pdf"
+      ]
+    },
+    "overviews": [
+      {
+        "title": "Información General",
+        "description": "<p><span style=\"color: rgb(80, 80, 80);\">La cámara&nbsp;<\/span><strong style=\"color: rgb(80, 80, 80);\">HMW3200<\/strong><span style=\"color: rgb(80, 80, 80);\">&nbsp;es una cámara HDCVI de <\/span><strong style=\"color: rgb(80, 80, 80);\">2MP<\/strong><span style=\"color: rgb(80, 80, 80);\"> diseñada especialmente para DVR Móvil debido a su conector tipo aviación, diseñada con una carcasa compacta a prueba de golpes lo que hace que sea conveniente de instalar y adaptable a diversas aplicaciones. Ofrece una imagen de alta calidad, así como un menú OSD multilenguaje, además, la cámara emplea los puntos fuertes de HDCVI para garantizar la transmisión en tiempo real.<\/span><\/p>",
+        "order": 1,
+        "image_align": "center",
+        "image_path": null,
+        "mobile_image_path": null
+      },
+      {
+        "title": "Micrófono Integrado",
+        "description": "<p><span style=\"color: rgb(80, 80, 80);\">Cuenta con un&nbsp;micrófono integrado de esta manera se puede transmitir la señal de video y audio utilizando un solo cable hacia el dvr móvil.También se puede interactuar con la plataforma Dss o Mobile Center.<\/span><\/p>",
+        "order": 2,
+        "image_align": "center",
+        "image_path": null,
+        "mobile_image_path": null
+      },
+      {
+        "title": "Resolución Full HD",
+        "description": "<p><span style=\"color: rgb(80, 80, 80);\">La cámara nos permite obtener imágen en alta definición ya que puede grabar a resolución de 2MP.<\/span><\/p>",
+        "order": 3,
+        "image_align": "center",
+        "image_path": null,
+        "mobile_image_path": null
+      },
+      {
+        "title": "A prueba de choques",
+        "description": "<p><span style=\"color: rgb(80, 80, 80);\">La vibración es inevitable en aplicaciones móviles. Para evitar fallas en la imagen o la conexión, la estructura de hardware de la cámara móvil&nbsp;<\/span><strong style=\"color: rgb(80, 80, 80);\">HMW3100<\/strong><span style=\"color: rgb(80, 80, 80);\">&nbsp;es a prueba de golpes con la certificación EN50155. Además, la cámara móvil adopta un conector de aviación <\/span><strong style=\"color: rgb(80, 80, 80);\">M12<\/strong><span style=\"color: rgb(80, 80, 80);\"> para una conexión estable con los Dvr Móviles.<\/span><\/p>",
+        "order": 4,
+        "image_align": "center",
+        "image_path": null,
+        "mobile_image_path": null
+      },
+      {
+        "title": "Principales Características",
+        "description": "<ul><li class=\"ql-align-justify\">Resolución 2 Mp (1920x1080).<\/li><li class=\"ql-align-justify\">Salida de video HDCVI (conector de aviación).<\/li><li class=\"ql-align-justify\">Lente fijo 2.1mm.<\/li><li class=\"ql-align-justify\">Ángulo de visión 128º.<\/li><li class=\"ql-align-justify\">Máx distancia de IR 20 metros.<\/li><li class=\"ql-align-justify\">Día\/noche auto (ICR).<\/li><li class=\"ql-align-justify\">BLC, HLC, DWDR.<\/li><li class=\"ql-align-justify\">Reducción de ruido 2D.<\/li><li class=\"ql-align-justify\">Micrófono incorporado.<\/li><li class=\"ql-align-justify\">Fuente de alimentación 12V DC.<\/li><li class=\"ql-align-justify\">Consumo de energía máx. 2.9W (IR encendido).<\/li><li class=\"ql-align-justify\">Condiciones de operación -40ºC a 70º.<\/li><li class=\"ql-align-justify\">Dimensiones 10.73cm × 4.25cm × 5.45cm.<\/li><li class=\"ql-align-justify\">Indice de protección IP67.<\/li><li class=\"ql-align-justify\">Material aluminio.<\/li><li class=\"ql-align-justify\">Peso 0.31kg.<\/li><\/ul><p><br><\/p>",
+        "order": 5,
+        "image_align": "center",
+        "image_path": null,
+        "mobile_image_path": null
+      }
+    ],
+    "weights_and_dimensions": {
+      "pieces_per_box": 20,
+      "piece_height": "11.50",
+      "piece_length": "14.00",
+      "piece_width": "14.00",
+      "piece_weight": "0.450",
+      "box_height": "26.50",
+      "box_length": "71.00",
+      "box_width": "30.00",
+      "box_weight": "9.600"
+    }
+}
